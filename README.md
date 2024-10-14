@@ -35,3 +35,22 @@ Ao final deve se exibir uma mensagem:
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
   guerreiro atacou usando espada
+
+---
+
+# Desafio Surpresa
+
+## O QUE PRECISA SER FEITO ?
+
+Crie um código para armazenar o máximo de informações possível dos pokemon da imagem ao lado e ao final, para cada um, exiba uma mensagem de saída escrita o nome do pokemon concatenado com "Cadastrado com sucesso"
+
+![pokemons](https://helpful-jump-17b.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F657ae529-553e-466c-b74e-98d09f05396d%2Fshape_1g-y-1bRKuJKEDAE_-Ga5.png?table=block&id=a14fc61d-ada8-4820-be18-a92a6e628619&spaceId=88e4dc6b-f3c4-4b5b-bb05-18f02b6815fb&width=1410&userId=&cache=v2)
+
+EXEMPLO:
+"DRAGONITE Cadastrado com sucesso"
+
+### REGRAS
+
+Você pode utilizar Javascript ou qualquer outra linguagem da sua preferência
+Você pode utilizar o playcode.io ou qualquer outra ide da sua preferência
+Ao final deve submeter o código aqui na plataforma da dio clicando em "entregar projeto"

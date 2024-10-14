@@ -23,7 +23,7 @@ class hero {
     }
 }
 
-let player1 = new hero('Gandalf', 1000, 'mago');
-let player2 = new hero('Aragorn', 38, 'guerreiro');
+let player1 = new hero('Gandalf', 1000, 'Mago');
+let player2 = new hero('Aragorn', 38, 'Guerreiro');
 player1.toAttack();
 player2.toAttack();
